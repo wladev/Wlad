@@ -1,10 +1,10 @@
 # 👋 Hello, moi c’est Wladimir
 
-Développeur web full stack (PHP/Symfony & React/Next.js), freelance et formateur.  
-Je suis actuellement en poste à la SNCF, mais sans débouché concret suite à ma reconversion je cherche un **poste stable ou des missions freelance**.
+Développeur web full stack (PHP/Symfony & React/Next.js), freelance et formateur.
 
-🎓 Diplômé Développeur Web & Web Mobile (DWWM)  
-🚀 Passionné par le développement, j’ai poursuivi ma formation en autodidacte : TypeScript, Docker, Tailwind, DevOps, etc.
+🎓 Diplômé Développeur Web & Web Mobile (DWWM), j’ai poursuivi ma montée en compétences en autodidacte : TypeScript, Tailwind, Docker, DevOps, déploiement VPS...
+
+💼 Actuellement en poste à la SNCF, mais sans perspective concrète d'évolution suite à ma reconversion, je suis en recherche active d’un poste stable (CDI ou mission longue) ou ouvert à des projets freelance à taille humaine.
 
 ---
 
