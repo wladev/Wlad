@@ -30,6 +30,6 @@ Je suis actuellement en poste à la SNCF, mais sans débouché concret suite à 
 
 ## ✉️ Me contacter
 
-📬 [LinkedIn](https://www.linkedin.com/in/wladimir-XXX)  
+📬 [LinkedIn](www.linkedin.com/in/wladimir-perfiloff)  
 🌐 [wladev.fr](https://wladev.fr)  
 📩 contact@wladev.fr
