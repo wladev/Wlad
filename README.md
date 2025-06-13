@@ -24,6 +24,7 @@ Je suis actuellement en poste à la SNCF, mais sans débouché concret suite à 
 | `wladev.fr` | Mon site pro, carte de visite freelance | Next.js, Tailwind | [🔗 Voir](https://wladev.fr) |
 | `gestion-stock-batteries` | App Java Swing de gestion de stock pour parc matériel | Java, SQLite | _En cours_ |
 | `todo-react-native` | Appli mobile avec notifications, React Native | React Native, TypeScript | _À venir_ |
+| Start-Zup | Refonte complète d'une application web pour un organisme de formation. Front dynamique avec gestion des événements, articles, formulaire, etc. | React, Bootstrap, Symfony API (Back SF) | [Front](https://start-zup.com) |
 
 ---
 
